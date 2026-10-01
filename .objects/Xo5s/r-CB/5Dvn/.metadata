@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Calculate_Client_Security - UiPath Studio Com",
+  "Type": "Screen",
+  "Id": "5DvnWZrOVE6wbExMo_Jj3w",
+  "Reference": "RUVAtivP5Ei_MECt-cYm1A/5DvnWZrOVE6wbExMo_Jj3w",
+  "ParentRef": "RUVAtivP5Ei_MECt-cYm1A/r-CB9cFt3Ea8EFcPZQUFhw",
+  "Created": "2026-09-29T20:36:43.359976Z",
+  "Updated": "2026-09-29T20:36:43.359976Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

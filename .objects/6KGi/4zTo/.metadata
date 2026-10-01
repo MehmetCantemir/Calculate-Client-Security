@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "4zToam3bs0qnoLCqRdqM_Q",
+  "Reference": "RUVAtivP5Ei_MECt-cYm1A/4zToam3bs0qnoLCqRdqM_Q",
+  "ParentRef": "RUVAtivP5Ei_MECt-cYm1A/6KGiz5Wxf0yO-gOuFsQ3VA",
+  "Created": "2026-09-29T20:36:09.4447689Z",
+  "Updated": "2026-09-29T20:36:09.4447689Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

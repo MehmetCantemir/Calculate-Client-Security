@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Calculate_Client_Security - UiPath Studio Community",
+  "Type": "App",
+  "Id": "Xo5siXo_tkaXIvRD6XAXLQ",
+  "Reference": "RUVAtivP5Ei_MECt-cYm1A/Xo5siXo_tkaXIvRD6XAXLQ",
+  "Created": "2026-09-29T20:36:43.2933633Z",
+  "Updated": "2026-09-29T20:36:43.2933633Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
